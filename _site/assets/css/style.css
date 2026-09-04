@@ -217,7 +217,7 @@ p:last-child { margin-bottom: 0; }
   position: relative;
   padding: 140px 20px 120px;
   text-align: center;
-  background-image: url('https://static.wixstatic.com/media/dfe705d7a08446ba86261aa099eeee5c.jpg');
+  background-image: url('/lucycreancounselling-beta2/assets/images/hero-woodland.jpg');
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -264,7 +264,7 @@ p:last-child { margin-bottom: 0; }
   min-height: 480px;
 }
 .support-split__image {
-  background-image: url('https://static.wixstatic.com/media/c96fbbba64d749fa8d78ff0e918dfc57.jpg');
+  background-image: url('/lucycreancounselling-beta2/assets/images/field-sunset.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
