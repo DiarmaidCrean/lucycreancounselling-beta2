@@ -68,7 +68,7 @@ collections:
           - label: Homepage card teaser
             name: teaser
             widget: text
-            hint: "2-3 sentences shown on the homepage. Keep it short."
+            hint: "Shown on the homepage card. Links through to the full page."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: menopause
@@ -80,7 +80,7 @@ collections:
           - label: Homepage card teaser
             name: teaser
             widget: text
-            hint: "2-3 sentences shown on the homepage. Keep it short."
+            hint: "Shown on the homepage card. Links through to the full page."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: anxiety
@@ -92,7 +92,7 @@ collections:
           - label: Homepage card teaser
             name: teaser
             widget: text
-            hint: "2-3 sentences shown on the homepage. Keep it short."
+            hint: "Shown on the homepage card. Links through to the full page."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: confidence
@@ -104,7 +104,7 @@ collections:
           - label: Homepage card teaser
             name: teaser
             widget: text
-            hint: "2-3 sentences shown on the homepage. Keep it short."
+            hint: "Shown on the homepage card. Links through to the full page."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: grief
@@ -116,7 +116,7 @@ collections:
           - label: Homepage card teaser
             name: teaser
             widget: text
-            hint: "2-3 sentences shown on the homepage. Keep it short."
+            hint: "Shown on the homepage card. Links through to the full page."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: relationship
@@ -128,5 +128,5 @@ collections:
           - label: Homepage card teaser
             name: teaser
             widget: text
-            hint: "2-3 sentences shown on the homepage. Keep it short."
+            hint: "Shown on the homepage card. Links through to the full page."
           - { label: Page Body, name: body, widget: markdown }
