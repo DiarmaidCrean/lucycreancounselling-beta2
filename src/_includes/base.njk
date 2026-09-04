@@ -15,8 +15,8 @@
 
       <div class="header-right">
         <div class="header-contact">
-          <a href="mailto:lucy@lucycreancounselling.co.uk">lucy@lucycreancounselling.co.uk</a>
-          <a href="tel:07947862832">07947 862832</a>
+          <a href="mailto:{{ sitedata.email }}">{{ sitedata.email }}</a>
+          <a href="tel:{{ sitedata.phone | replace(' ', '') }}">{{ sitedata.phone }}</a>
         </div>
         <ul class="site-nav">
           <li><a href="{{ '/' | url }}">Home</a></li>
@@ -42,8 +42,8 @@
         <li><a href="{{ '/contact/' | url }}">Contact</a></li>
       </ul>
       <div class="mobile-nav-contact">
-        <a href="mailto:lucy@lucycreancounselling.co.uk">lucy@lucycreancounselling.co.uk</a>
-        <a href="tel:07947862832">07947 862832</a>
+        <a href="mailto:{{ sitedata.email }}">{{ sitedata.email }}</a>
+        <a href="tel:{{ sitedata.phone | replace(' ', '') }}">{{ sitedata.phone }}</a>
       </div>
     </div>
   </header>

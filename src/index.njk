@@ -7,9 +7,9 @@ description: Experienced counsellor in Brighton and Hove BN3, offering psychothe
 <!-- 1. Hero -->
 <section class="hero">
   <div class="container">
-    <h1>Psychotherapeutic counselling in Hove</h1>
+    <h1>{{ sitedata.headline }}</h1>
     <p>A safe, confidential space to explore what is troubling you and find a way through.</p>
-    <a href="/contact/" class="btn btn-outline">Get in touch</a>
+    <a href="{{ '/contact/' | url }}" class="btn btn-outline">Get in touch</a>
   </div>
 </section>
 
@@ -19,11 +19,8 @@ description: Experienced counsellor in Brighton and Hove BN3, offering psychothe
     <div class="two-col welcome-two-col">
       <div class="welcome-text">
         <h2>Welcome</h2>
-        <p>I am an experienced psychotherapeutic counsellor and support group facilitator, based in Hove and online.</p>
-        <p>With over 10 years experience, I have witnessed time and again the transformative power of being listened to by someone who is trained to hear and respond in ways that help facilitate positive change.</p>
-        <p>I am passionate about supporting people with their mental health and wellbeing — helping people feel more at ease in their own skin, and empowered enough to make changes in their life.</p>
-        <p>I am friendly, approachable and down to earth, so please reach out to ask any questions. I'd love to hear from you.</p>
-        <a href="/about/" class="btn btn-dark">More about me</a>
+        {{ sitedata.intro | nl2br | safe }}
+        <a href="{{ '/about/' | url }}" class="btn btn-dark">More about me</a>
       </div>
       <div class="welcome-photo-col">
         <img src="{{ '/assets/images/lucy-crean.jpg' | url }}" alt="Lucy Crean, counsellor in Hove" class="welcome-photo">
