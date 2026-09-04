@@ -1,0 +1,61 @@
+---
+layout: base.njk
+title: Contact
+description: Get in touch with Lucy Crean, counsellor in Hove. Book a free 30-minute introductory call or send a message.
+---
+
+<section class="page-hero">
+  <div class="container">
+    <h1>Get in touch</h1>
+    <p>I would love to hear from you. All enquiries are treated with complete confidentiality.</p>
+  </div>
+</section>
+
+<section class="contact-section">
+  <div class="container">
+    <div class="two-col">
+      <div>
+        <h2>Send a message</h2>
+        <p class="subheading">I offer a free 30-minute introductory call so you can ask questions and get a feel for how I work, with no obligation. Fill in the form below and I will be in touch.</p>
+        <form action="https://formspree.io/f/xkoawezq" method="POST">
+          <input type="hidden" name="_subject" value="New enquiry from Lucy Crean Counselling">
+          <div class="form-grid">
+            <div class="form-group">
+              <label for="first-name">First name</label>
+              <input type="text" id="first-name" name="first_name" autocomplete="given-name" required>
+            </div>
+            <div class="form-group">
+              <label for="last-name">Last name</label>
+              <input type="text" id="last-name" name="last_name" autocomplete="family-name" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" id="email" name="email" autocomplete="email" required>
+            </div>
+            <div class="form-group">
+              <label for="phone">Phone</label>
+              <input type="tel" id="phone" name="phone" autocomplete="tel">
+            </div>
+            <div class="form-group full">
+              <label for="message">Message</label>
+              <textarea id="message" name="message" autocomplete="off"></textarea>
+            </div>
+          </div>
+          <div class="form-submit">
+            <button type="submit" class="btn btn-dark">Send message</button>
+          </div>
+        </form>
+      </div>
+      <div class="contact-details">
+        <h3>Contact details</h3>
+        <p>Email: <a href="mailto:lucy@lucycreancounselling.co.uk">lucy@lucycreancounselling.co.uk</a></p>
+        <p>Phone: <a href="tel:07947862832">07947 862832</a></p>
+        <h3 style="margin-top:28px;">Location</h3>
+        <p>The Wilbury Clinic<br>109 Church Road<br>Hove BN3 2AF</p>
+        <p>Hove Therapy Rooms<br>Hove</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
