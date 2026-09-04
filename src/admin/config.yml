@@ -6,28 +6,103 @@ media_folder: src/assets/images
 public_folder: /assets/images
 
 collections:
+  # ── Global site settings ──────────────────────────────────
+  - name: settings
+    label: Site Settings
+    files:
+      - name: sitedata
+        label: Global Settings
+        file: src/_data/sitedata.json
+        fields:
+          - { label: Site Name, name: name, widget: string }
+          - { label: Email, name: email, widget: string }
+          - { label: Phone, name: phone, widget: string }
+          - { label: Address, name: address, widget: string }
+
+  # ── Individual pages ──────────────────────────────────────
   - name: pages
     label: Pages
     files:
       - name: homepage
         label: Homepage
-        file: src/_data/sitedata.json
+        file: src/pages/homepage.md
         fields:
-          - label: Site Name
-            name: name
-            widget: string
-          - label: Email
-            name: email
-            widget: string
-          - label: Phone
-            name: phone
-            widget: string
-          - label: Address
-            name: address
-            widget: string
-          - label: Homepage Headline
-            name: headline
-            widget: string
-          - label: Homepage Intro
-            name: intro
-            widget: text
+          - { label: Hero Headline, name: title, widget: string }
+          - { label: Hero Subtitle, name: subtitle, widget: string }
+          - { label: Lucy's Photo, name: photo, widget: image }
+          - { label: Welcome Body, name: body, widget: markdown }
+          - { label: Support Section Heading, name: support_heading, widget: string }
+          - { label: Support Section Text, name: support_text, widget: text }
+          - { label: Support Quote Overlay, name: support_quote, widget: string }
+          - { label: Conditions Section Heading, name: conditions_heading, widget: string }
+          - { label: Contact Section Heading, name: contact_heading, widget: string }
+          - { label: Contact Section Subheading, name: contact_subheading, widget: string }
+
+      - name: about
+        label: About
+        file: src/pages/about.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Photo, name: photo, widget: image }
+          - { label: Page Body, name: body, widget: markdown }
+
+      - name: my_approach
+        label: My Approach
+        file: src/pages/my-approach.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }
+
+  # ── Condition pages ───────────────────────────────────────
+  - name: conditions
+    label: Condition Pages
+    files:
+      - name: postnatal
+        label: Postnatal Counselling
+        file: src/pages/postnatal-counselling.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }
+
+      - name: menopause
+        label: Menopause Counselling
+        file: src/pages/menopause-counselling.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }
+
+      - name: anxiety
+        label: Anxiety Counselling
+        file: src/pages/anxiety-counselling.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }
+
+      - name: confidence
+        label: Confidence & Self Esteem
+        file: src/pages/confidence-counselling.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }
+
+      - name: grief
+        label: Grief Counselling
+        file: src/pages/grief-counselling.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }
+
+      - name: relationship
+        label: Relationship Counselling
+        file: src/pages/relationship-counselling.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }

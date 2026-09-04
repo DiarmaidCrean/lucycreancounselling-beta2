@@ -4,10 +4,12 @@ title: About Lucy Crean
 description: Lucy Crean is a BACP Accredited counsellor in Hove, offering psychotherapeutic counselling for a wide range of personal difficulties.
 ---
 
+{% set p = pages.about %}
+
 <section class="page-hero">
   <div class="container">
-    <h1>About</h1>
-    <p>BACP Accredited counsellor based in Hove</p>
+    <h1>{{ p.title }}</h1>
+    <p>{{ p.subtitle }}</p>
   </div>
 </section>
 
@@ -15,24 +17,12 @@ description: Lucy Crean is a BACP Accredited counsellor in Hove, offering psycho
   <div class="container">
     <div class="two-col">
       <div>
-        <img src="{{ '/assets/images/lucy-crean.jpg' | url }}" alt="Lucy Crean, counsellor in Hove" class="welcome-photo">
+        <img src="{{ p.photo | url }}" alt="Lucy Crean, counsellor in Hove" class="welcome-photo">
       </div>
       <div class="prose">
-        <h2>About me</h2>
-        <p>I am a BACP Accredited counsellor, very experienced in helping people overcome a range of personal issues. Whatever your personal and unique struggle, I am ready to listen and talk about it with you.</p>
-        <p>I have lots of experience in helping mothers who have recently had children and are struggling with the challenges of parenthood. I lead therapeutic support groups for new mums on behalf of a local counselling charity.</p>
-        <h3>What are my qualifications?</h3>
-        <p>I am a fully qualified counsellor, holding a Postgraduate Diploma in Humanistic Therapeutic Counselling from Brighton University.</p>
-        <p>I am a registered member of the British Association for Counselling and Psychotherapy and I adhere to its Ethical Framework for Good Practice. I regularly attend continued professional development courses (CPD) to enhance my initial qualifications.</p>
-        <p>I hold a Diploma in Practitioner Skills for Eating Disorders, awarded by National Centre for Eating Disorders.</p>
-        <h3>Why did I become a counsellor?</h3>
-        <p>My own life-changing experience of counselling inspired me to retrain in the profession. Because of my own journey, I believe passionately that counselling can empower people to make positive changes to their lives.</p>
-        <h3>Where do I work?</h3>
-        <p>I see clients in Hove at The Wilbury Clinic, 109 Church Road, Hove BN3 2AF and at Hove Therapy Rooms.</p>
-        <a href="/contact/" class="btn btn-dark">Get in touch</a>
+        {{ p.body | markdownify | safe }}
+        <a href="{{ '/contact/' | url }}" class="btn btn-dark">Get in touch</a>
       </div>
     </div>
   </div>
 </section>
-
-

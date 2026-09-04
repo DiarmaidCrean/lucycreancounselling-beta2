@@ -4,27 +4,20 @@ title: My Approach to Counselling
 description: Lucy Crean is a Humanistic counsellor in Hove. Learn about her person-centred approach to psychotherapeutic counselling.
 ---
 
+{% set p = pages.my_approach %}
+
 <section class="page-hero">
   <div class="container">
-    <h1>My approach</h1>
-    <p>Humanistic, person-centred counselling</p>
+    <h1>{{ p.title }}</h1>
+    <p>{{ p.subtitle }}</p>
   </div>
 </section>
 
 <section class="prose-section">
   <div class="container">
     <div class="prose">
-      <h2>How I work</h2>
-      <p>As a Humanistic counsellor, I believe we all have the capacity for growth, healing and change. My aim is to help you find your own path — not to give you answers, but to offer a space where you can explore your thoughts and feelings freely, without judgement.</p>
-      <p>We will make sense of your experiences, thoughts and emotions together, gently exploring different perspectives and possibilities at a pace that feels right for you.</p>
-      <h3>What to expect</h3>
-      <p>Sessions last 50 minutes and take place weekly. I offer an initial free 30-minute introductory call so you can ask questions and get a feel for how I work, with no obligation.</p>
-      <p>Everything you share with me is held in the strictest confidence, in line with BACP ethical guidelines.</p>
-      <h3>Fees</h3>
-      <p>Fees are on a sliding scale of £55–£65 based on what you can afford. An initial in-person introduction session is £20. I strongly believe that counselling should be accessible to all — if you would like to discuss fees, please just ask.</p>
-      <a href="/contact/" class="btn btn-dark">Book a free introductory call</a>
+      {{ p.body | markdownify | safe }}
+      <a href="{{ '/contact/' | url }}" class="btn btn-dark">Book a free introductory call</a>
     </div>
   </div>
 </section>
-
-

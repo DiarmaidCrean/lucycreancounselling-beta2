@@ -4,22 +4,20 @@ title: Grief Counselling Hove
 description: Counselling for grief and loss with Lucy Crean in Hove, Brighton. A compassionate space to process bereavement.
 ---
 
+{% set p = pages.grief_counselling %}
+
 <section class="page-hero">
   <div class="container">
-    <h1>Grief and loss</h1>
-    <p>A compassionate space to find your own way through</p>
+    <h1>{{ p.title }}</h1>
+    <p>{{ p.subtitle }}</p>
   </div>
 </section>
 
 <section class="prose-section">
   <div class="container">
     <div class="prose">
-      <p>Grief is one of the most profound experiences we go through, and everyone experiences it differently. Whether your loss is recent or something you have been carrying for a long time, counselling can offer a space to express what you are feeling without judgement, and to find your own way through.</p>
-      <p>Loss comes in many forms — the death of someone close, the end of a relationship, a change in health, or the loss of a sense of who you are. All of these deserve to be taken seriously and given space.</p>
-      <p>I will not rush you or tell you how grief should look. I will simply be here to listen and to walk alongside you as you find your way forward.</p>
-      <a href="/contact/" class="btn btn-dark">Book a free introductory call</a>
+      {{ p.body | markdownify | safe }}
+      <a href="{{ '/contact/' | url }}" class="btn btn-dark">Book a free introductory call</a>
     </div>
   </div>
 </section>
-
-
