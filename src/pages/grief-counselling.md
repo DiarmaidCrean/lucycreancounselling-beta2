@@ -1,6 +1,7 @@
 ---
 title: Grief and loss
 subtitle: A compassionate space to find your own way through
+teaser: Grief is one of the most profound experiences we go through, and everyone experiences it differently. Counselling offers a space to express what you are feeling without judgement and find your own way through.
 ---
 Grief is one of the most profound experiences we go through, and everyone experiences it differently. Whether your loss is recent or something you have been carrying for a long time, counselling can offer a space to express what you are feeling without judgement, and to find your own way through.
 

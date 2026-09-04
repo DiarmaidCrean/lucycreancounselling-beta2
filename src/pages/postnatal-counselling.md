@@ -1,6 +1,7 @@
 ---
 title: Postnatal issues and parenting
 subtitle: Counselling support for new parents in Hove
+teaser: The period after having a baby can be one of the most challenging times in a person's life, even when things look fine from the outside. Counselling offers a safe, non-judgemental space to talk honestly about your experience and find your way through.
 ---
 The period after having a baby can be one of the most challenging times in a person's life, even when things look fine from the outside. You may be feeling overwhelmed, disconnected, or not quite yourself. Counselling can offer a safe and non-judgemental space to talk honestly about your experience, and to begin finding your way through.
 

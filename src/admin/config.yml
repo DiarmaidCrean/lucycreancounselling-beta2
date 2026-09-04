@@ -65,6 +65,10 @@ collections:
         fields:
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
+          - label: Homepage card teaser
+            name: teaser
+            widget: text
+            hint: "2-3 sentences shown on the homepage. Keep it short."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: menopause
@@ -73,6 +77,10 @@ collections:
         fields:
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
+          - label: Homepage card teaser
+            name: teaser
+            widget: text
+            hint: "2-3 sentences shown on the homepage. Keep it short."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: anxiety
@@ -81,6 +89,10 @@ collections:
         fields:
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
+          - label: Homepage card teaser
+            name: teaser
+            widget: text
+            hint: "2-3 sentences shown on the homepage. Keep it short."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: confidence
@@ -89,6 +101,10 @@ collections:
         fields:
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
+          - label: Homepage card teaser
+            name: teaser
+            widget: text
+            hint: "2-3 sentences shown on the homepage. Keep it short."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: grief
@@ -97,6 +113,10 @@ collections:
         fields:
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
+          - label: Homepage card teaser
+            name: teaser
+            widget: text
+            hint: "2-3 sentences shown on the homepage. Keep it short."
           - { label: Page Body, name: body, widget: markdown }
 
       - name: relationship
@@ -105,4 +125,8 @@ collections:
         fields:
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
+          - label: Homepage card teaser
+            name: teaser
+            widget: text
+            hint: "2-3 sentences shown on the homepage. Keep it short."
           - { label: Page Body, name: body, widget: markdown }
