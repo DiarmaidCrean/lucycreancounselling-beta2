@@ -1,13 +1,18 @@
 ---
-title: Psychotherapeutic counselling in Hove
-subtitle: A safe, confidential space to explore what is troubling you and find a way through.
+title: Psychotherapeutic counselling in HoveX
+subtitle: A safe, confidential space to explore what is troubling you and find a
+  way through.
 photo: /assets/images/lucy-crean.jpg
 support_heading: How can counselling support you?
-support_text: Counselling offers a confidential, non-judgemental space where you can talk freely about what is troubling you. Together we will explore your thoughts, feelings and experiences — gently and at your own pace — to help you understand yourself better and find a way forward that feels right for you.
+support_text: Counselling offers a confidential, non-judgemental space where you
+  can talk freely about what is troubling you. Together we will explore your
+  thoughts, feelings and experiences — gently and at your own pace — to help you
+  understand yourself better and find a way forward that feels right for you.
 support_quote: Sometimes the most courageous thing you can do is ask for help.
 conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
-contact_subheading: I offer a free 30-minute introductory call. Fill in the form and I will be in touch.
+contact_subheading: I offer a free 30-minute introductory call. Fill in the form
+  and I will be in touch.
 ---
 I am an experienced psychotherapeutic counsellor and support group facilitator, based in Hove and online.
 
