@@ -17,6 +17,10 @@ description: Fees and booking information for Lucy Crean Counselling in Hove. Sl
   <div class="container">
     <div class="prose">
       {{ p.body | markdownify | safe }}
+      <div class="fees-contact">
+        <p>Email: <a href="mailto:{{ sitedata.email }}">{{ sitedata.email }}</a></p>
+        <p>Phone: <a href="tel:{{ sitedata.phone | replace(' ', '') }}">{{ sitedata.phone }}</a></p>
+      </div>
       <a href="{{ '/contact/' | url }}" class="btn btn-dark">Get in touch</a>
     </div>
   </div>

@@ -18,6 +18,3 @@ I practise out of two Hove locations: The Wilbury Clinic and Hove Therapy Rooms.
 ## Booking a session
 
 If you are interested in booking a session please get in touch by email or telephone.
-
-Email: lucy@lucycreancounselling.co.uk
-Phone: 07947 862832
