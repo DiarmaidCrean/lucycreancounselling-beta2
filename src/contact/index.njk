@@ -49,8 +49,8 @@ description: Get in touch with Lucy Crean, counsellor in Hove. Book a free 30-mi
       </div>
       <div class="contact-details">
         <h3>Contact details</h3>
-        <p>Email: <a href="mailto:lucy@lucycreancounselling.co.uk">lucy@lucycreancounselling.co.uk</a></p>
-        <p>Phone: <a href="tel:07947862832">07947 862832</a></p>
+        <p>Email: <a href="mailto:{{ sitedata.email }}">{{ sitedata.email }}</a></p>
+        <p>Phone: <a href="tel:{{ sitedata.phone | replace(' ', '') }}">{{ sitedata.phone }}</a></p>
         <h3 style="margin-top:28px;">Location</h3>
         <p>The Wilbury Clinic<br>109 Church Road<br>Hove BN3 2AF</p>
         <p>Hove Therapy Rooms<br>Hove</p>
