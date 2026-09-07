@@ -4,6 +4,7 @@ const md = markdownIt({ html: true, breaks: true, linkify: true });
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("src/assets/fonts");
   eleventyConfig.addPassthroughCopy("src/admin");
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
 

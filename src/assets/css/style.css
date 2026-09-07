@@ -2,7 +2,81 @@
    Lucy Crean Counselling — beta2 stylesheet
    ============================================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,700;1,400;1,500&family=Lato:wght@300;400;700&display=swap');
+/* ── Self-hosted fonts (Playfair Display + Lato) ───────────── */
+
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-400-normal.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-400-normal.woff')  format('woff');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-400-italic.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-400-italic.woff')  format('woff');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-500-normal.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-500-normal.woff')  format('woff');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-500-italic.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-500-italic.woff')  format('woff');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-700-normal.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-700-normal.woff')  format('woff');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-700-italic.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/playfair-display-latin-700-italic.woff')  format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/lato-latin-300-normal.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/lato-latin-300-normal.woff')  format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/lato-latin-400-normal.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/lato-latin-400-normal.woff')  format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/lucycreancounselling-beta2/assets/fonts/lato-latin-700-normal.woff2') format('woff2'),
+       url('/lucycreancounselling-beta2/assets/fonts/lato-latin-700-normal.woff')  format('woff');
+}
 
 /* ── CSS Variables ─────────────────────────────────────────── */
 :root {
