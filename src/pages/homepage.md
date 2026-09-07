@@ -1,5 +1,5 @@
 ---
-title: Psychotherapeutic counselling in HoveX
+title: Psychotherapeutic counselling in Hove
 subtitle: A safe, confidential space to explore what is troubling you and find a
   way through.
 photo: /assets/images/lucy-crean.jpg
