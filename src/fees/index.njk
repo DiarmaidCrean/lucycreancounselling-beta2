@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: Fees & Booking
+description: Fees and booking information for Lucy Crean Counselling in Hove. Sliding scale fees from £55-£65. Free 30-minute introductory call available.
+---
+
+{% set p = pages.fees %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>{{ p.title }}</h1>
+    <p>{{ p.subtitle }}</p>
+  </div>
+</section>
+
+<section class="prose-section">
+  <div class="container">
+    <div class="prose">
+      {{ p.body | markdownify | safe }}
+      <a href="{{ '/contact/' | url }}" class="btn btn-dark">Get in touch</a>
+    </div>
+  </div>
+</section>

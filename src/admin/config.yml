@@ -55,6 +55,14 @@ collections:
           - { label: Page Subtitle, name: subtitle, widget: string }
           - { label: Page Body, name: body, widget: markdown }
 
+      - name: fees
+        label: Fees & Booking
+        file: src/pages/fees.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - { label: Page Body, name: body, widget: markdown }
+
   # ── Condition pages ───────────────────────────────────────
   - name: conditions
     label: Condition Pages
