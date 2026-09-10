@@ -5,9 +5,9 @@ subtitle: A safe, confidential space to explore what is troubling you and find a
 photo: /assets/images/lucy-crean.jpg
 support_heading: How can counselling support you?
 support_text: >-
-  Life can be challenging and many of us find ourselves muddling along or in
-  turmoil. You deserve so much more than this. Counselling can offer you the
-  tools to thrive. 
+  Life can be challenging and many of us find ourselves muddling along and lost.
+  You deserve so much more than this. Counselling can offer you the tools to
+  thrive. 
 
 
 
