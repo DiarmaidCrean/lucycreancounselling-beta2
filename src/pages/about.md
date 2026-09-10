@@ -1,7 +1,7 @@
 ---
 title: About Lucy Crean
 subtitle: BACP Accredited counsellor based in Hove
-photo: /assets/images/lucy-crean.jpg
+photo: /assets/images/lucy-crean2.jpg
 ---
 ## About me
 
