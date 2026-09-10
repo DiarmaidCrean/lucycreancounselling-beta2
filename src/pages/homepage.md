@@ -17,7 +17,8 @@ support_text: >-
 
 
   Read more about my approach to counselling and what you can expect
-support_quote: “I am not what happened to me, I am what I choose to become.” Carl Gustav Jung
+support_quote: “The curious paradox is that when I accept myself just as I am,
+  then I can change." Carl Rogers
 conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
 contact_subheading: Please reach out to arrange a call or introduction session
