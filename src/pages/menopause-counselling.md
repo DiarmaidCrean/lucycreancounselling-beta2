@@ -1,9 +1,10 @@
 ---
 title: Midlife and Menopause
 subtitle: Counselling support through life's significant transitions
-teaser: "Midlife can be a deeply challenging time for women – a profound
+teaser: Midlife can be a deeply challenging time for women – a profound
   psychological journey, impacted by a changing hormonal and biological
-  landscape, it can be a very confusing and destabilizing time. "
+  landscape, it can be a very confusing and destabilizing time. Menopause
+  informed therapy can help.
 ---
 The menopause can bring significant physical and emotional changes that affect how you feel about yourself and your life. You may be experiencing mood swings, anxiety, a loss of confidence, or a sense that you no longer recognise yourself.
 
