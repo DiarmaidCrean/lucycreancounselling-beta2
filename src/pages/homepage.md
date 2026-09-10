@@ -4,10 +4,17 @@ subtitle: A safe, confidential space to explore what is troubling you and find a
   way through.
 photo: /assets/images/lucy-crean.jpg
 support_heading: How can counselling support you?
-support_text: Counselling offers a confidential, non-judgemental space where you
-  can talk freely about what is troubling you. Together we will explore your
-  thoughts, feelings and experiences — gently and at your own pace — to help you
-  understand yourself better and find a way forward that feels right for you.
+support_text: >-
+  There are many reasons why people seek therapy.
+
+
+  Perhaps you are overwhelmed by emotions or thoughts. Perhaps you feel stuck in a situation or pattern that you can’t seem to shift. You may be finding a relationship exhausting or confusing, or maybe life has taken an unexpected turn. Perhaps you can’t put your finger on it, but something is just not right.
+
+
+  I believe everyone can benefit from counselling. Whatever difficulties in your life have brought you here, I welcome you to take a look around my website to understand more about who I work with, and how I can help. 
+
+
+  Read more about my approach to counselling
 support_quote: “The curious paradox is that when I accept myself just as I am,
   then I can change.” Carl Rogers
 conditions_heading: Some of the common problems I work with
