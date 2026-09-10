@@ -1,7 +1,11 @@
 ---
 title: Confidence and self esteem
 subtitle: Counselling to help you develop a kinder relationship with yourself
-teaser: If you find yourself doubting your worth or feeling that you are not enough, counselling can help. Together we can explore where these feelings come from and develop a kinder, more compassionate relationship with yourself.
+teaser: "If you are struggling with your confidence or self esteem, counselling
+  can help you. You may be avoiding certain situations, or feel you overthink.
+  You may be feeling you are not enough. Together we can explore what might be
+  at the heart of your loss of confidence and build your belief in yourself so
+  that you may live your life to the full. "
 ---
 If you find yourself doubting your worth, being overly self-critical, or feeling that you are somehow not enough, counselling can help. Together we can explore where these feelings come from and begin to develop a kinder, more compassionate relationship with yourself.
 
