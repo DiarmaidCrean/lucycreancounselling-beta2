@@ -8,7 +8,8 @@ support_text: Counselling offers a confidential, non-judgemental space where you
   can talk freely about what is troubling you. Together we will explore your
   thoughts, feelings and experiences — gently and at your own pace — to help you
   understand yourself better and find a way forward that feels right for you.
-support_quote: Sometimes the most courageous thing you can do is ask for help.
+support_quote: “The curious paradox is that when I accept myself just as I am,
+  then I can change.” Carl Rogers
 conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
 contact_subheading: I offer a free 30-minute introductory call. Fill in the form
