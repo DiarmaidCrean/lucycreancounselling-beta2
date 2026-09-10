@@ -20,8 +20,7 @@ support_quote: “The curious paradox is that when I accept myself just as I am,
   then I can change.” Carl Rogers
 conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
-contact_subheading: I offer a free 30-minute introductory call. Fill in the form
-  and I will be in touch.
+contact_subheading: Please reach out to arrange a call or introduction session
 ---
 I am an experienced psychotherapeutic counsellor and support group facilitator, based in Hove and online.
 
