@@ -10,10 +10,13 @@ support_text: >-
   thrive. 
 
 
+
   You may be feeling overwhelmed by emotions or thoughts. Perhaps you feel stuck in a situation or pattern that you can’t seem to shift. You may be finding a relationship exhausting or confusing, or maybe life has taken an unexpected turn. Perhaps you can’t put your finger on it, but something is just not right.
 
 
+
   I believe everyone can benefit from counselling. Whatever difficulties in your life have brought you here, I welcome you to take a look around my website to understand more about who I work with, and how I can help. 
+
 
 
   Read more about my approach to counselling and what you can expect
