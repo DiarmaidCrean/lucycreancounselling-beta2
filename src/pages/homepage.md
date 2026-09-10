@@ -5,8 +5,9 @@ subtitle: A safe, confidential space to explore what is troubling you and find a
 photo: /assets/images/lucy-crean.jpg
 support_heading: How can counselling support you?
 support_text: >-
-  There are many reasons why people seek therapy. Counselling can help provide a
-  safe and supportive path ahead.
+  Life can be hectic and many of us find ourselves muddling along, but you
+  deserve so much more than this. Counselling can offer you the tools to
+  thrive. 
 
 
   You may be feeling overwhelmed by emotions or thoughts. Perhaps you feel stuck in a situation or pattern that you can’t seem to shift. You may be finding a relationship exhausting or confusing, or maybe life has taken an unexpected turn. Perhaps you can’t put your finger on it, but something is just not right.
