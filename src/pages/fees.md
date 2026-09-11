@@ -2,7 +2,7 @@
 title: Fees & booking
 subtitle: Affordable counselling in Hove and Brighton
 ---
-## **Fees:**
+## Fees:
 
 Introduction session: £20
 
