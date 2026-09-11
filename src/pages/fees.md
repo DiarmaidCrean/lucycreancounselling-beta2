@@ -2,19 +2,12 @@
 title: Fees & booking
 subtitle: Affordable counselling in Hove and Brighton
 ---
+## **Fees:**
 
-## My fees
+Introduction session: £20
 
-Fees are on a sliding scale of £55-£65 based on what you can afford. An initial in-person introduction session is £20.
+50 minute session: £55-£65 (based on affordability)
 
-I strongly believe that counselling should be accessible to all. If you would like to discuss fees or anything else, please just get in touch.
+## How to book
 
-Each session lasts for 50 minutes. You can pay in cash or via bank transfer.
-
-## My location
-
-I practise out of two Hove locations: The Wilbury Clinic and Hove Therapy Rooms. Both are in Hove.
-
-## Booking a session
-
-If you are interested in booking a session please get in touch by email or telephone.
+If you are interested in booking a session, please get in touch using the form below, or via email or phone. We can arrange either a free 15 minute phone call, or a reduced rate introduction session.
