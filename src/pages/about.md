@@ -3,7 +3,7 @@ title: About Lucy Crean
 subtitle: BACP Accredited counsellor based in Hove
 photo: /assets/images/lucy-crean2.jpg
 ---
-## About me
+## About me and my approach
 
 I am a BACP Accredited counsellor, very experienced in helping people overcome a range of personal issues. Whatever your personal and unique struggle, I am ready to listen and talk about it with you.
 
