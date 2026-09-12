@@ -24,7 +24,7 @@ contact_subheading: Please reach out to arrange a call or introduction session
 ---
 Life can be challenging, and many of us find ourselves muddling along, feeling stuck, and tired of holding everything together. On the outside everything looks like it's great, but on the inside we are struggling and sometimes unsure why.
 
-You deserve so much more than this. Counselling can offer you the tools to thrive.
+You deserve so much more than this. Therapy can offer you the tools to thrive.
 
 You may be feeling overwhelmed by emotions for thoughts. Perhaps you feel stuck in a situation or pattern that you can't seem to shift. Or are you finding a relationship exhausting or confusing. Perhaps you can't put your finger on it, but something is just not right.
 
