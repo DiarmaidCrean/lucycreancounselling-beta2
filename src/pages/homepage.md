@@ -18,7 +18,7 @@ support_text: >-
   I am friendly, approachable and down to earth, so please reach out to ask any questions. I'd love to hear from you.
 support_quote: '"Lucy was a fantastic in getting to the root cause of my
   problems, and ultimately gave me the tools I needed to overcome the issues I
-  was facing, and have since found my outlook and sense of wellbeing higher than
+  was facing. I have since found my outlook and sense of wellbeing higher than
   ever before"'
 conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
