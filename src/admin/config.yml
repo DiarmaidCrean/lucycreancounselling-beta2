@@ -78,6 +78,20 @@ collections:
           - { label: Page Subtitle, name: subtitle, widget: string }
           - { label: Page Body, name: body, widget: markdown }
 
+      - name: faqs
+        label: FAQs
+        file: src/pages/faqs.md
+        fields:
+          - { label: Page Title, name: title, widget: string }
+          - { label: Page Subtitle, name: subtitle, widget: string }
+          - label: FAQ Items
+            name: faqs
+            widget: list
+            hint: "Add, edit or reorder questions. Drag to reorder."
+            fields:
+              - { label: Question, name: question, widget: string }
+              - { label: Answer, name: answer, widget: text }
+
   # ── Condition pages ───────────────────────────────────────
   - name: conditions
     label: Condition Pages

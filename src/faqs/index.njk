@@ -1,0 +1,32 @@
+---
+layout: base.njk
+title: FAQs
+description: Frequently asked questions about counselling with Lucy Crean, BACP Accredited counsellor in Hove.
+---
+
+{% set p = pages.faqs %}
+
+<section class="page-hero">
+  <div class="container">
+    <h1>{{ p.title }}</h1>
+    <p>{{ p.subtitle }}</p>
+  </div>
+</section>
+
+<section class="faq-section">
+  <div class="container">
+    <dl class="faq-list">
+      {% for item in p.faqs %}
+      <div class="faq-item">
+        <dt class="faq-question">{{ item.question }}</dt>
+        <dd class="faq-answer">{{ item.answer }}</dd>
+      </div>
+      {% endfor %}
+    </dl>
+
+    <div class="faq-cta">
+      <p>Have a question that isn&rsquo;t answered here?</p>
+      <a href="{{ '/contact/' | url }}" class="btn btn-dark">Get in touch</a>
+    </div>
+  </div>
+</section>
