@@ -55,8 +55,27 @@
   </main>
 
   <footer id="site-footer">
-    <div class="container">
-      <p>&copy; {% year %} Lucy Crean Counselling. All rights reserved.</p>
+    <div class="footer-inner">
+      <div class="footer-col footer-col--brand">
+        <p class="footer-site-name">Lucy Crean Counselling</p>
+        <p class="footer-tagline">Psychotherapeutic counsellor in Hove and online</p>
+        <p class="footer-copyright">&copy; {% year %} Lucy Crean Counselling. All rights reserved.</p>
+      </div>
+      <div class="footer-col footer-col--links">
+        <p class="footer-heading">Quick links</p>
+        <ul class="footer-nav">
+          <li><a href="{{ '/' | url }}">Home</a></li>
+          <li><a href="{{ '/about/' | url }}">About</a></li>
+          <li><a href="{{ '/my-approach/' | url }}">My Approach</a></li>
+          <li><a href="{{ '/contact/' | url }}">Contact</a></li>
+        </ul>
+      </div>
+      <div class="footer-col footer-col--bacp">
+        <a href="https://www.bacp.co.uk" target="_blank" rel="noopener noreferrer">
+          <img src="{{ '/assets/images/bacp-logo.png' | url }}" alt="BACP logo" class="bacp-logo">
+        </a>
+        <p class="footer-accredited">Accredited Member</p>
+      </div>
     </div>
   </footer>
 
