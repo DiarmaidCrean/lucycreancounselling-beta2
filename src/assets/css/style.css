@@ -604,7 +604,7 @@ p:last-child { margin-bottom: 0; }
 
 /* ── Testimonial block ─────────────────────────────────────── */
 .testimonial-block {
-  background: #C8BFB0 !important;
+  background: #C8BFB0;
   padding: 60px 80px;
   text-align: center;
   width: 100%;
