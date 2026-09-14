@@ -20,9 +20,26 @@ description: Lucy Crean is a BACP Accredited counsellor in Hove, offering psycho
         <img src="{{ p.photo | url }}" alt="Lucy Crean, counsellor in Hove" class="welcome-photo">
       </div>
       <div class="prose">
-        {{ p.body | markdownify | safe }}
-        <a href="{{ '/contact/' | url }}" class="btn btn-dark">Get in touch</a>
+        {{ p.body_top | markdownify | safe }}
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="testimonial-block">
+  <div class="container">
+    <blockquote class="testimonial-quote">
+      <p>&ldquo;{{ p.testimonial_text }}&rdquo;</p>
+      <footer class="testimonial-attribution">&mdash; {{ p.testimonial_attribution }}</footer>
+    </blockquote>
+  </div>
+</section>
+
+<section class="prose-section prose-section--no-top">
+  <div class="container">
+    <div class="prose">
+      {{ p.body_bottom | markdownify | safe }}
+      <a href="{{ '/contact/' | url }}" class="btn btn-dark">Get in touch</a>
     </div>
   </div>
 </section>

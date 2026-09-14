@@ -45,7 +45,22 @@ collections:
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
           - { label: Photo, name: photo, widget: image }
-          - { label: Page Body, name: body, widget: markdown }
+          - label: Body (top section)
+            name: body_top
+            widget: markdown
+            hint: "Content shown above the testimonial — about Lucy and her approach."
+          - label: Testimonial quote
+            name: testimonial_text
+            widget: text
+            hint: "A short client quote shown in the highlighted block between sections."
+          - label: Testimonial attribution
+            name: testimonial_attribution
+            widget: string
+            hint: "Who said it — e.g. Anonymous, or a first name."
+          - label: Body (bottom section)
+            name: body_bottom
+            widget: markdown
+            hint: "Content shown below the testimonial — qualifications, motivation, location."
 
       - name: my_approach
         label: My Approach

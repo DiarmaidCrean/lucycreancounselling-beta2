@@ -599,7 +599,40 @@ p:last-child { margin-bottom: 0; }
 /* ── Prose sections ────────────────────────────────────────── */
 .prose-section { padding: var(--section-pad); }
 .prose-section.taupe { background: var(--taupe-light); }
+.prose-section--no-top { padding-top: 0; }
 .prose { max-width: 720px; margin: 0 auto; }
+
+/* ── Testimonial block ─────────────────────────────────────── */
+.testimonial-block {
+  background: #C8BFB0;
+  padding: 64px 20px;
+  text-align: center;
+}
+
+.testimonial-quote {
+  max-width: 680px;
+  margin: 0 auto;
+  border: none;
+  padding: 0;
+}
+
+.testimonial-quote p {
+  font-family: var(--serif);
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  font-style: italic;
+  font-weight: 400;
+  color: #2C1A0E;
+  line-height: 1.5;
+  margin: 0 0 20px;
+}
+
+.testimonial-attribution {
+  font-size: 0.875rem;
+  font-style: normal;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #5a4030;
+}
 
 /* ── Responsive ────────────────────────────────────────────── */
 @media (max-width: 900px) {
