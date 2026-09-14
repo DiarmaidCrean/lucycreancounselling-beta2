@@ -590,7 +590,8 @@ p:last-child { margin-bottom: 0; }
 /* ── Inner page hero ───────────────────────────────────────── */
 .page-hero {
   background: var(--taupe);
-  padding: 70px 20px 60px;
+  /* top padding accounts for sticky header (contact row ~30px + nav row ~44px + gaps) */
+  padding: 100px 20px 60px;
   text-align: center;
 }
 .page-hero h1 { margin-bottom: 12px; }
@@ -614,26 +615,28 @@ p:last-child { margin-bottom: 0; }
 
 .faq-item {
   padding: 28px 0;
-  border-bottom: 1px solid var(--taupe-dark);
+  border-bottom: 1px solid #C8BFB0;
 }
 
 .faq-item:first-child {
-  border-top: 1px solid var(--taupe-dark);
+  border-top: 1px solid #C8BFB0;
 }
 
 .faq-question {
   font-family: var(--serif);
-  font-size: 1.15rem;
-  font-weight: 600;
+  font-size: 1.2rem;  /* same visual weight as h3 */
+  font-weight: 700;
   color: var(--text);
   margin-bottom: 12px;
 }
 
 .faq-answer {
+  /* Override browser default dd indent (margin-inline-start: 40px) */
+  margin: 0;
+  padding: 0;
   font-size: 1rem;
   color: var(--text-light);
   line-height: 1.75;
-  margin: 0;
 }
 
 .faq-cta {
