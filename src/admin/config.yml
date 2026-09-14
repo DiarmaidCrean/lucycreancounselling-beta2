@@ -32,7 +32,7 @@ collections:
           - { label: Lucy's Photo, name: photo, widget: image }
           - { label: Welcome Body, name: body, widget: markdown }
           - { label: Support Section Heading, name: support_heading, widget: string }
-          - { label: Support Section Text, name: support_text, widget: text }
+          - { label: Support Section Text, name: support_text, widget: markdown }
           - { label: Support Quote Overlay, name: support_quote, widget: string }
           - { label: Conditions Section Heading, name: conditions_heading, widget: string }
           - { label: Contact Section Heading, name: contact_heading, widget: string }

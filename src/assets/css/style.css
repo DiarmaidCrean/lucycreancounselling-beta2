@@ -124,6 +124,20 @@ h3 { font-size: clamp(1.15rem, 2vw, 1.4rem); }
 p { margin-bottom: 1.2em; }
 p:last-child { margin-bottom: 0; }
 
+/* Explicit paragraph spacing for markdownify output contexts */
+.prose p,
+.welcome-text p,
+.support-split__text p,
+.contact-section p {
+  margin-bottom: 1.2em;
+}
+.prose p:last-child,
+.welcome-text p:last-child,
+.support-split__text p:last-child,
+.contact-section p:last-child {
+  margin-bottom: 0;
+}
+
 /* ── Layout ────────────────────────────────────────────────── */
 .container {
   max-width: var(--max-width);

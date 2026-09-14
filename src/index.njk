@@ -39,7 +39,7 @@ description: Experienced counsellor in Brighton and Hove BN3, offering psychothe
   <div class="support-split__text">
     <div>
       <h2>{{ p.support_heading }}</h2>
-      <p>{{ p.support_text }}</p>
+      {{ p.support_text | markdownify | safe }}
       <a href="{{ '/my-approach/' | url }}" class="btn btn-outline">My approach</a>
     </div>
   </div>
