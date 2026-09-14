@@ -605,22 +605,17 @@ p:last-child { margin-bottom: 0; }
 /* ── Testimonial block ─────────────────────────────────────── */
 .testimonial-block {
   background: #C8BFB0;
-  padding: 60px 80px;
+  /* No side padding here — background must reach the viewport edge */
+  padding: 60px 0;
   text-align: center;
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.testimonial-block .container {
-  background: transparent;
 }
 
 .testimonial-quote {
   max-width: 720px;
+  /* Side padding on the inner element keeps text readable without constraining the background */
   margin: 0 auto;
+  padding: 0 80px;
   border: none;
-  padding: 0;
-  background: transparent;
 }
 
 .testimonial-quote p {
@@ -643,8 +638,8 @@ p:last-child { margin-bottom: 0; }
 }
 
 @media (max-width: 768px) {
-  .testimonial-block {
-    padding: 40px 24px;
+  .testimonial-quote {
+    padding: 0 24px;
   }
 }
 
