@@ -92,6 +92,23 @@ collections:
               - { label: Question, name: question, widget: string }
               - { label: Answer, name: answer, widget: text }
 
+      - name: contact
+        label: Contact
+        file: src/pages/contact.md
+        fields:
+          - label: Page Title
+            name: title
+            widget: string
+            hint: "The main heading shown in the header band (e.g. Get in touch)"
+          - label: Page Subtitle
+            name: subtitle
+            widget: string
+            hint: "Short line below the heading in the header band"
+          - label: Form Introduction
+            name: intro
+            widget: text
+            hint: "Text shown above the contact form explaining the free introductory call"
+
   # ── Condition pages ───────────────────────────────────────
   - name: conditions
     label: Condition Pages
