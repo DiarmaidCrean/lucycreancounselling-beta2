@@ -24,7 +24,7 @@ conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
 contact_subheading: Please reach out to arrange a call or introduction session
 ---
-Life can be challenging, and many of us find ourselves muddling along, feeling stuck, and tired of holding everything together. On the outside everything looks like it's great, but on the inside we are struggling and sometimes unsure why.
+Life can be challenging, and we can often find ourselves muddling along, feeling stuck, and tired of holding everything together. On the outside everything looks like it's great, but on the inside we are struggling and sometimes unsure why.
 
 You deserve so much more than this. Therapy can offer you the tools to thrive.
 
