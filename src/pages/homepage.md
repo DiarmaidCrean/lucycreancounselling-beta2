@@ -19,7 +19,7 @@ support_text: >-
 support_quote: '"Lucy was a fantastic in getting to the root cause of my
   problems, and ultimately gave me the tools I needed to overcome the issues I
   was facing. I have since found my outlook and sense of wellbeing higher than
-  ever before"'
+  ever before" D.G'
 conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
 contact_subheading: Please reach out to arrange a call or introduction session
