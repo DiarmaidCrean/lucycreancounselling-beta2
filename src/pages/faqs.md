@@ -20,10 +20,14 @@ faqs:
     answer: Yes. Everything discussed in our sessions is confidential. The only
       exceptions are if I have serious concerns about your safety or the safety
       of others, in line with BACP ethical guidelines.
-  - question: How many sessions will I need?
-    answer: This varies for each person. Some people benefit from short term work of
-      six to twelve sessions, others prefer longer term therapy. We will discuss
-      this together and review regularly.
+  - question: How often will I need sessions, and for how long?
+    answer: >-
+      Session are usually weekly or fortnightly. This usually depends of a
+      variety of factors including availability and affordability. We can work
+      that out together.
+
+
+      In terms of how many sessions, this varies for each person. Some people benefit from short term work of six to twelve sessions, others prefer longer term therapy. We will discuss this together and review regularly.
   - question: Is my problem serious enough for therapy? I don’t want to waste your time.
     answer: There is no threshold or minimum requirement to access therapy. If your
       problem is causing you distress or interfering with you living life to the
