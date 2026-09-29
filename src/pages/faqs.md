@@ -8,9 +8,13 @@ faqs:
       has brought you to counselling and whether we are a good fit to work
       together.
   - question: How much do sessions cost?
-    answer: Sessions are on a sliding scale of £55–£65 based on what you can afford.
-      An initial introductory session is £20. I believe counselling should be
-      accessible to everyone.
+    answer: >-
+      I believe strongly that therapy should be accessible to all. For this
+      reason, I offer sessions on a sliding scale of £55–£65 based on what you
+      can afford. 
+
+
+      An initial introductory session is offered at a reduced rate of £20, as it gives us the chance to meet and make sure we are a 'good fit' without any commitment to continue if you don't wish to.
   - question: What if I need to cancel a session?
     answer: Whilst commitment to therapy is essential to feel its benefits, of
       course things come up and you may not always be able to attend. I ask for
