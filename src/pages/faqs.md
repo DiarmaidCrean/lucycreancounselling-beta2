@@ -42,4 +42,9 @@ faqs:
       you don't usually talk about yourself much. Please don't worry. I will
       help you find ways to express yourself. You'll never be forced to talk
       when you don't want to.
+  - question: Is it possible to overshare in a therapy session? I am worried I might
+      talk too much in my session, or cry, and it might be overwhelming for you.
+    answer: No, its not possible to overshare. Anything you want to talk about will
+      be welcome and respected. I will help you to feel comfortable in the
+      space, regardless of how much for little you want to share with me.
 ---
