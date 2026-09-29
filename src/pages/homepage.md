@@ -1,7 +1,6 @@
 ---
 title: Psychotherapeutic counselling in Hove
-subtitle: A safe, confidential space to explore what is troubling you and find a
-  way through.
+subtitle: Safe, trusted therapy, supporting you to find your way
 photo: /assets/images/lucy-crean.jpg
 support_heading: How can I support you?
 support_text: >-
