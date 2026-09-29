@@ -37,4 +37,9 @@ faqs:
       experiences can be helpful in terms of offering another lens with which to
       view our current experiences. But this is not always the case, and there
       are other ways we can explore this.
+  - question: What if I don’t know what to talk about? I find it really hard to open up.
+    answer: Its really normal to feel nervous about accessing therapy, especially if
+      you don't usually talk about yourself much. Please don't worry. I will
+      help you find ways to express yourself. You'll never be forced to talk
+      when you don't want to.
 ---
