@@ -3,11 +3,6 @@ title: Frequently Asked Questions
 subtitle: Here are some of the common questions I hear from clients who are
   thinking about starting therapy with me
 faqs:
-  - question: How do I book a first session?
-    answer: Get in touch by email at lucy@lucycreancounselling.co.uk or call 07947
-      862832. I offer a free 30-minute introductory call so we can discuss what
-      has brought you to counselling and whether we are a good fit to work
-      together.
   - question: How much do sessions cost?
     answer: >-
       I believe strongly that therapy should be accessible to all. For this
@@ -56,4 +51,9 @@ faqs:
     answer: No, its not possible to overshare. Anything you want to talk about will
       be welcome and respected. I will help you to feel comfortable in the
       space, regardless of how much for little you want to share with me.
+  - question: How do I book a first session?
+    answer: Get in touch by email at lucy@lucycreancounselling.co.uk or call 07947
+      862832. I offer a free 30-minute introductory call so we can discuss what
+      has brought you to counselling and whether we are a good fit to work
+      together.
 ---
