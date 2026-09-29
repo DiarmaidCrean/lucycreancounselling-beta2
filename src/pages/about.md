@@ -31,7 +31,7 @@ body_bottom: >-
   I am well qualified, with a Postgraduate Diploma in Humanistic Psychotherapeutic Counselling, from Brighton University (2015), and I am an Accredited member of the BACP. 
 
 
-  I am passionate about my work and so my training and development never stops. Since my original qualification I have completed a wide range of further training which includes trauma, emotional regulation, relationships, co-dependency, eating disorders, parenting and postnatal depression, grief and menopause.
+  I am passionate about my work and so my training and development never stops. Since my original qualification I have completed a wide range of further training which includes trauma, emotional regulation, relationships, co-dependency, eating disorders, parenting and postnatal depression, grief and menopause. I hold a diploma in Practitioner Skills for Eating Disorders from the National Society of Eating Disorders, and I am also trained in EMBERS®, a menopause-informed CBT.
 
 
   I am hugely community minded and in addition to my private practice, I have also worked in local charities and educational settings. I currently work for a local women’s charity leading support groups for new mothers and also women in the midlife/menopause transition.
