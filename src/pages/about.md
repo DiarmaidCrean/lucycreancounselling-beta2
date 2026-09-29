@@ -25,7 +25,7 @@ testimonial_text: '"I came away from every session feeling positive and as if a
   done for me" '
 testimonial_attribution: K.T
 body_bottom: >-
-  ### My qualifications & experience
+  ## My qualifications & experience
 
 
   I am well qualified, with a Postgraduate Diploma in Humanistic Psychotherapeutic Counselling, from Brighton University (2015), and I am an Accredited member of the BACP. 
