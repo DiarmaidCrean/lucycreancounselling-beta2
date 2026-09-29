@@ -22,8 +22,8 @@ body_top: >-
 testimonial_text: '"I came away from every session feeling positive and as if a
   weight had been lifted. I realised so much about myself as a person. The whole
   experience has changed my life and I will be forever grateful for what it has
-  done for me" S.T'
-testimonial_attribution: Anonymous
+  done for me" '
+testimonial_attribution: K.T
 body_bottom: >-
   ## My qualifications and experience
 
