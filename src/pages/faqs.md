@@ -31,4 +31,10 @@ faqs:
       this through before committing then do just get in touch, and we can
       arrange a call or introduction session. This might help you decide as we
       can think about how we might work on your problem in our sessions.
+  - question: "Will I have to talk about my childhood? What if I can’t remember much? "
+    answer: You will never be pressured to talk about your childhood, and we won't
+      be probing for things that you can't remember. Talking about our early
+      experiences can be helpful in terms of offering another lens with which to
+      view our current experiences. But this is not always the case, and there
+      are other ways we can explore this.
 ---
