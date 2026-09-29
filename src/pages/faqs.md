@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
-subtitle: Everything you need to know about counselling with Lucy
+subtitle: Here are some of the common questions I hear from clients who are
+  thinking about starting therapy with me
 faqs:
   - question: How do I book a first session?
     answer: Get in touch by email at lucy@lucycreancounselling.co.uk or call 07947
