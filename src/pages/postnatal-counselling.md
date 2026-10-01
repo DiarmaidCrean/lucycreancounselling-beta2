@@ -1,5 +1,5 @@
 ---
-title: Postnatal issues and parenting
+title: Postnatal support and parenting
 subtitle: Counselling support for new parents in Hove
 teaser: "Perhaps you are a new mum and are confused and overwhelmed by
   unexpected feelings. Or maybe you have older children and feel isolated and
