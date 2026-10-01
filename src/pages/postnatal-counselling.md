@@ -12,8 +12,6 @@ These are just some of the things the women I work with have said:
 
 “I really miss my old life and feel so guilty”
 
-“I’m not sure I am bonding with my baby. I thought I’d be overwhelmed by love”
-
 “I feel so worried about that something might happen to my baby”
 
 “I really resent my partner – they get to still live their lives”
