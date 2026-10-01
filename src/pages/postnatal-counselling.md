@@ -32,4 +32,4 @@ Therapy can offer you  the chance to get some support. It might be  that you n
 
 I have worked in the field of perinatal wellbeing for over 15 years, and am passionate about offering parents support. As well as supporting mums individually, I also lead support groups for new mothers for a local women’s charity.
 
-I welcome you to get in touch to discuss if therapy can help you. If you have a young baby, you may well have practical concerns about accessing therapy – childcare, money, availability, or even guilt for giving back to yourself – these hurdles are some of the things we can chat through in an introduction session or phone call, to see if therapy might be just the thing you need.
+I welcome you to get in touch to discuss if therapy can help you. If you have a young baby, you may well have practical concerns about accessing therapy – childcare, money, availability, or even guilt for giving back to yourself – these hurdles are some of the things we can chat through in an introduction session or phone call, to see if therapy might give you the support you need.
