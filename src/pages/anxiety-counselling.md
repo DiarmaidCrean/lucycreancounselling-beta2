@@ -1,10 +1,9 @@
 ---
 title: Anxiety and emotional overwhelm
-subtitle: Counselling to help you feel steadier and more in control
+subtitle: Therapy to help you feel steady and grounded
 teaser: "Are feeling overwhelmed by your emotions? Strong feelings like anxiety
-  and anger can be powerful, destabilizing, perhaps even frightening. Together
-  we can explore these experiences, and help you to feel more grounded and
-  present in your life. "
+  and anger can be powerful and destabilizing. Together we can explore these
+  experiences, and help you to feel more grounded and present in your life. "
 ---
 Overwhelming and uncomfortable feelings or thoughts is a really common issue that brings people to explore counselling. Our emotions are usually the thing that tells us something is not right, but sometimes feelings can become overpowering and stop making sense and we’re not sure why.
 
