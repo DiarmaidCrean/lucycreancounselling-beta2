@@ -6,8 +6,10 @@ teaser: "Are feeling overwhelmed by your emotions? Strong feelings like anxiety
   we can explore these experiences, and help you to feel more grounded and
   present in your life. "
 ---
-Anxiety can take many forms: a constant sense of worry, physical tension, or a feeling that something bad is about to happen. It can make everyday life feel exhausting and hard to manage.
+Overwhelming and uncomfortable feelings or thoughts is a really common issue that brings people to explore counselling. Our emotions are usually the thing that tells us something is not right, but sometimes feelings can become overpowering and stop making sense and we’re not sure why.
 
-In our sessions, we can explore what is driving your anxiety, understand the patterns that keep it in place, and find ways to help you feel steadier and more in control.
+Clients arrive telling me that they feel anxious or worried all of the time. “I’m overthinking everything! I can’t switch off” is something I often hear. They arrive to therapy exhausted by the anticipation of things that might happen, dissecting conversations or scenarios (real or imagined) and often with a very harsh inner critic which they can’t tune out. This is all emotionally draining. They are usually tired of holding everything together – on the outside everything looks great, but on the inside they are struggling.
 
-Emotional overwhelm — feeling flooded by feelings you can't manage or make sense of — is something many people experience and something counselling can help with. Together we can slow things down and begin to understand what is happening beneath the surface.
+If this is you right now, then therapy can help.
+
+Counselling can offer you to work through this in a calm and grounded way. We can explore what is driving your anxiety, understand the patterns that keep it in place, and find ways to help you feel steadier and more present in your life.
