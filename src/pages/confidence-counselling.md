@@ -1,4 +1,5 @@
 ---
+ready: true
 title: Confidence and self esteem
 subtitle: Counselling to help you develop a kinder relationship with yourself
 teaser: "If you are struggling with your confidence or self esteem, counselling

@@ -1,4 +1,5 @@
 ---
+ready: true
 title: Midlife and Menopause
 subtitle: Counselling support through life's significant transitions
 teaser: Midlife can be a deeply challenging time for women – a profound

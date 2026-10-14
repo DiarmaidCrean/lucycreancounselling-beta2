@@ -1,7 +1,14 @@
----
-layout: base.njk
-title: Postnatal Counselling Hove
-description: Counselling for postnatal issues and the challenges of early parenthood, with Lucy Crean in Hove, Brighton.
+---js
+{
+  layout: "base.njk",
+  title: "Postnatal Counselling Hove",
+  description: "Counselling for postnatal issues and the challenges of early parenthood, with Lucy Crean in Hove, Brighton.",
+  eleventyComputed: {
+    // Built only when "Ready to publish" is ticked in the CMS. A real boolean false
+    // tells Eleventy not to write the page at all, so the URL returns a 404.
+    permalink: (data) => (data.pages.postnatal_counselling.ready === true ? "/postnatal-counselling-hove/" : false)
+  }
+}
 ---
 
 {% set p = pages.postnatal_counselling %}

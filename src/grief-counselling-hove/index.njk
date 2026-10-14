@@ -1,7 +1,14 @@
----
-layout: base.njk
-title: Grief Counselling Hove
-description: Counselling for grief and loss with Lucy Crean in Hove, Brighton. A compassionate space to process bereavement.
+---js
+{
+  layout: "base.njk",
+  title: "Grief Counselling Hove",
+  description: "Counselling for grief and loss with Lucy Crean in Hove, Brighton. A compassionate space to process bereavement.",
+  eleventyComputed: {
+    // Built only when "Ready to publish" is ticked in the CMS. A real boolean false
+    // tells Eleventy not to write the page at all, so the URL returns a 404.
+    permalink: (data) => (data.pages.grief_counselling.ready === true ? "/grief-counselling-hove/" : false)
+  }
+}
 ---
 
 {% set p = pages.grief_counselling %}

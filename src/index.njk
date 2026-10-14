@@ -51,47 +51,59 @@ description: Experienced counsellor in Brighton and Hove BN3, offering psychothe
     <h2>{{ p.conditions_heading }}</h2>
     <div class="conditions-grid">
 
+      {% if pages.postnatal_counselling.ready === true %}
       <div class="condition-item">
         <h3>{{ pages.postnatal_counselling.title }}</h3>
         <hr>
         <p>{{ pages.postnatal_counselling.teaser }}</p>
         <a href="{{ '/postnatal-counselling-hove/' | url }}" class="read-more">Read More &rsaquo;</a>
       </div>
+      {% endif %}
 
+      {% if pages.menopause_counselling.ready === true %}
       <div class="condition-item">
         <h3>{{ pages.menopause_counselling.title }}</h3>
         <hr>
         <p>{{ pages.menopause_counselling.teaser }}</p>
         <a href="{{ '/menopause-counselling-hove/' | url }}" class="read-more">Read More &rsaquo;</a>
       </div>
+      {% endif %}
 
+      {% if pages.relationship_counselling.ready === true %}
       <div class="condition-item">
         <h3>{{ pages.relationship_counselling.title }}</h3>
         <hr>
         <p>{{ pages.relationship_counselling.teaser }}</p>
         <a href="{{ '/relationship-counselling-hove/' | url }}" class="read-more">Read More &rsaquo;</a>
       </div>
+      {% endif %}
 
+      {% if pages.anxiety_counselling.ready === true %}
       <div class="condition-item">
         <h3>{{ pages.anxiety_counselling.title }}</h3>
         <hr>
         <p>{{ pages.anxiety_counselling.teaser }}</p>
         <a href="{{ '/anxiety-counselling-hove/' | url }}" class="read-more">Read More &rsaquo;</a>
       </div>
+      {% endif %}
 
+      {% if pages.confidence_counselling.ready === true %}
       <div class="condition-item">
         <h3>{{ pages.confidence_counselling.title }}</h3>
         <hr>
         <p>{{ pages.confidence_counselling.teaser }}</p>
         <a href="{{ '/confidence-counselling-hove/' | url }}" class="read-more">Read More &rsaquo;</a>
       </div>
+      {% endif %}
 
+      {% if pages.grief_counselling.ready === true %}
       <div class="condition-item">
         <h3>{{ pages.grief_counselling.title }}</h3>
         <hr>
         <p>{{ pages.grief_counselling.teaser }}</p>
         <a href="{{ '/grief-counselling-hove/' | url }}" class="read-more">Read More &rsaquo;</a>
       </div>
+      {% endif %}
 
     </div>
   </div>

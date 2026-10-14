@@ -1,7 +1,14 @@
----
-layout: base.njk
-title: Confidence and Self Esteem Counselling Hove
-description: Counselling for low confidence and self esteem with Lucy Crean in Hove, Brighton.
+---js
+{
+  layout: "base.njk",
+  title: "Confidence and Self Esteem Counselling Hove",
+  description: "Counselling for low confidence and self esteem with Lucy Crean in Hove, Brighton.",
+  eleventyComputed: {
+    // Built only when "Ready to publish" is ticked in the CMS. A real boolean false
+    // tells Eleventy not to write the page at all, so the URL returns a 404.
+    permalink: (data) => (data.pages.confidence_counselling.ready === true ? "/confidence-counselling-hove/" : false)
+  }
+}
 ---
 
 {% set p = pages.confidence_counselling %}

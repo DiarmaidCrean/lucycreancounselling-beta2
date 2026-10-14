@@ -1,4 +1,5 @@
 ---
+ready: true
 title: Anxiety and emotional overwhelm
 subtitle: Therapy to help you feel steady and grounded
 teaser: "Are feeling overwhelmed by your emotions? Strong feelings like anxiety

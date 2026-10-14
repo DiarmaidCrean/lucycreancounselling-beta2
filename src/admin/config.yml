@@ -118,6 +118,7 @@ collections:
         label: Postnatal Counselling
         file: src/pages/postnatal-counselling.md
         fields:
+          - { label: Ready to publish, name: ready, widget: boolean, default: false }
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
           - label: Homepage card teaser
@@ -130,6 +131,7 @@ collections:
         label: Menopause Counselling
         file: src/pages/menopause-counselling.md
         fields:
+          - { label: Ready to publish, name: ready, widget: boolean, default: false }
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
           - label: Homepage card teaser
@@ -142,6 +144,7 @@ collections:
         label: Anxiety Counselling
         file: src/pages/anxiety-counselling.md
         fields:
+          - { label: Ready to publish, name: ready, widget: boolean, default: false }
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
           - label: Homepage card teaser
@@ -154,6 +157,7 @@ collections:
         label: Confidence & Self Esteem
         file: src/pages/confidence-counselling.md
         fields:
+          - { label: Ready to publish, name: ready, widget: boolean, default: false }
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
           - label: Homepage card teaser
@@ -166,6 +170,7 @@ collections:
         label: Grief Counselling
         file: src/pages/grief-counselling.md
         fields:
+          - { label: Ready to publish, name: ready, widget: boolean, default: false }
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
           - label: Homepage card teaser
@@ -178,6 +183,7 @@ collections:
         label: Relationship Counselling
         file: src/pages/relationship-counselling.md
         fields:
+          - { label: Ready to publish, name: ready, widget: boolean, default: false }
           - { label: Page Title, name: title, widget: string }
           - { label: Page Subtitle, name: subtitle, widget: string }
           - label: Homepage card teaser

@@ -1,4 +1,5 @@
 ---
+ready: true
 title: Relationship and family difficulties
 subtitle: Counselling to help you navigate difficult relationships
 teaser: Difficulties in relationships — with a partner, ex partner, family
