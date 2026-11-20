@@ -1,7 +1,7 @@
 ---
 ready: true
 title: Postnatal support and parenting
-subtitle: Counselling support for new parents in Hove
+subtitle: Counselling support for parents in Hove
 teaser: "Perhaps you are a new mum and are confused and overwhelmed by
   unexpected feelings. Or maybe you have older children and feel isolated and
   unsupported. Whatever maybe be happening, I have extensive experience working
@@ -9,7 +9,7 @@ teaser: "Perhaps you are a new mum and are confused and overwhelmed by
 ---
 If you’re a mum, finding it really hard, and feeling like you're the only one not getting it - you're not.
 
-Becoming a parent is life changing, and as with any big changes (no matter how much we may have wished for them!),there can be challenges. But often, many of these challenges are unexpected, and the gap between our expectations and what it actually feels like can be confusing and isolating. Women might expect to sleep less and that day to day life will look very different, but there is so much women are often not prepared for. 
+Becoming a parent is life changing, and as with any big changes (no matter how much we may have wished for them!), there can be challenges. But often, many of these challenges are unexpected, and the gap between our expectations and what it actually feels like can be confusing and isolating. Women might expect to sleep less and that day to day life will look very different, but there is so much women are often not prepared for. 
 
 These are just some of the things the women I work with have said:
 
