@@ -3,10 +3,10 @@ title: About me and my approach
 subtitle: What you can expect from therapy with me
 photo: /assets/images/lucy_crean_counsellor.gif
 body_top: >-
-  As you’re reading this page, I am guessing life is difficult right now and you
-  are looking for someone or something to help. Looking for a counsellor might
-  feel overwhelming, and so I hope from this page you will get more of an idea
-  of who I am and whether I might be right for you.
+  As you’re reading this, I am guessing life is difficult right now and you are
+  looking for someone or something to help. Looking for a counsellor might feel
+  overwhelming, and so I hope from this page you will get more of an idea of who
+  I am and whether I might be right for you.
 
 
   People have described me as warm, grounded, insightful and a safe pair of hands, so I hope that you would find your sessions a consistent and trusted space in which you will be respected, truly heard and seen. As every person is unique so is every person’s experience of therapy. But you can anticipate my commitment to understanding you, your needs and goals for therapy. 
