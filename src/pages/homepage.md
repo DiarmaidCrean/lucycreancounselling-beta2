@@ -21,7 +21,7 @@ support_quote: '"Lucy was a fantastic in getting to the root cause of my
   ever before" D.G'
 conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
-contact_subheading: Please reach out to arrange a call or introduction session
+contact_subheading: Please reach out to arrange a free call or an in person introduction session
 ---
 **If life is feeling more challenging, and you're exhausted trying to hold everything together, then you're in the right place.**
 
