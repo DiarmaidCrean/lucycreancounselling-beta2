@@ -1,7 +1,7 @@
 ---
 title: About me and my approach
 subtitle: What you can expect from therapy with me
-photo: /assets/images/lucy-crean2.jpg
+photo: /assets/images/lucy_crean_counsellor.gif
 body_top: >-
   As you’re reading this page, I am guessing life is difficult right now and you
   are looking for someone or something to help. Looking for a counsellor might
