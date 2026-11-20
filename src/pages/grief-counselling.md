@@ -3,8 +3,9 @@ ready: true
 title: Grief and loss
 subtitle: A compassionate space to find your own way through
 teaser: Grief is one of the most profound experiences we go through, and
-  everyone experiences it differently. Counselling offers a space to express
-  what you are feeling without judgement and find your own way through.
+  everyone experiences it differently. It is a deeply personal process, that can
+  touch every area of life. Therapy can offer you support through this
+  challenging experience.
 ---
 Loss comes in many forms — the death of someone close, the end of a relationship, a change in health, or the loss of a sense of who you are. All of these deserve to be taken seriously and given space.
 
