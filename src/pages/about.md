@@ -15,7 +15,7 @@ body_top: >-
   You may be really clear about what you would like to gain from counselling, or you may not be sure. Either is fine, as I will support you to find the right ways to express yourself. This is usually through talking, but we may also use imagery and metaphor. We may also pay attention to your physical sensation too, as we seek to gain understanding of how the patterns of your autonomic nervous system impact your ability to feel grounded in your day to day. These are all powerful ways for you to foster resilience and agency in your life and decisions.
 
 
-  Therapy is not there to ‘cure’ or ‘fix’ you, and it can’t change the past - nonetheless it can be transformative. In our work together, you will begin to gain clarity and insight into your thoughts, feelings, behaviours and relationships, and together we will start to connect the dots between your past experiences and your present. This is incredibly helpful in terms of feeling more at ease in yourself and moving forward, as it provides anew lens with which to see yourself and your situations, whilst allowing you to anticipate the pitfalls and to manage life’s challenges with more confidence. 
+  Therapy is not there to ‘cure’ or ‘fix’ you, and it can’t change the past - nonetheless it can be transformative. In our work together, you will begin to gain clarity and insight into your thoughts, feelings, behaviours and relationships, and together we will start to connect the dots between your past experiences and your present. This is incredibly helpful in terms of feeling more at ease in yourself and moving forward, as it provides a new lens with which to see yourself and your situations, whilst allowing you to anticipate the pitfalls and to manage life’s challenges with more confidence. 
 
 
   Humanistic therapy emphasizes the human capacity to grow, heal and change that we have within us. It encourages deeper self-understanding and autonomy, which supports you to create a path forward that is truly right for you.
@@ -31,7 +31,7 @@ body_bottom: >-
   I am well qualified, with a Postgraduate Diploma in Humanistic Psychotherapeutic Counselling, from Brighton University (2015), and I am an Accredited member of the BACP. 
 
 
-  I am passionate about my work and so my training and development never stops. Since my original qualification I have completed a wide range of further training which includes trauma, emotional regulation, relationships, co-dependency, eating disorders, parenting and postnatal depression, grief and menopause. I hold a diploma in Practitioner Skills for Eating Disorders from the National Society of Eating Disorders, and I am also trained in EMBERS®, a menopause-informed CBT.
+  I am passionate about my work and so my training and development never stops. Since my original qualification I have completed a wide range of further training which includes trauma, emotional regulation, relationships, co-dependency, issues around food, parenting, postnatal depression, grief and menopause. I hold a diploma in Practitioner Skills for Eating Disorders from the National Society of Eating Disorders, and I am also trained in EMBERS®, a menopause-informed CBT.
 
 
   I am hugely community minded and in addition to my private practice, I have also worked in local charities and educational settings. I currently work for a local women’s charity leading support groups for new mothers and also women in the midlife/menopause transition.
