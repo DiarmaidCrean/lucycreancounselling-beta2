@@ -49,8 +49,9 @@ faqs:
   - question: Is it possible to overshare in a therapy session? I am worried I might
       talk too much in my session, or cry, and it might be overwhelming for you.
     answer: No, its not possible to overshare. Anything you want to talk about will
-      be welcome and respected. I will help you to feel comfortable in the
-      space, regardless of how much for little you want to share with me.
+      be welcome and respected. I am trained to be in this space, and I will
+      help you to feel comfortable, regardless of how much or little you want to
+      share with me.
   - question: How do I book a first session?
     answer: Get in touch by email at lucy@lucycreancounselling.co.uk or call 07947
       862832. I offer reduced fee in person introduction session, or a a free
