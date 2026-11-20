@@ -2,10 +2,10 @@
 ready: true
 title: Relationship and family difficulties
 subtitle: Counselling to help you navigate difficult relationships
-teaser: Difficulties in relationships — with a partner, ex partner, family
-  member, or friend — can leave you feeling hurt, confused, depleted or stuck.
-  Counselling can help you explore the patterns that affect how you relate to
-  others and work towards more fulfilling connections.
+teaser: Difficulties in relationships — whether it's a partner, family member,
+  ex partner, or friend — can leave you feeling hurt, confused, depleted or
+  stuck. Counselling can help you explore the patterns that affect how you
+  relate to others and work towards more fulfilling connections.
 ---
 If you find yourself struggling in a relationship - whether this is a partner, an ex-partner, friend or family member - therapy can be enlightening and productive.
 
