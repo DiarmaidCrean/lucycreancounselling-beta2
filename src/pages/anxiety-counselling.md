@@ -18,4 +18,4 @@ Being overwhelmed by strong emotions like worry or fear is a really common issue
 
 Counselling can offer you to work through this in a calm and grounded way. We can explore what is driving your anxiety, understand the patterns that keep it in place, and find ways to help you feel steadier and more present in your life.
 
-Reach out if you would like to have a chat about how counselling might help you.
+Reach out if you would like to have a chat about how counselling can help you.
