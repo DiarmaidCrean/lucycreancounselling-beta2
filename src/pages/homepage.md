@@ -23,7 +23,7 @@ conditions_heading: Some of the common problems I work with
 contact_heading: Get in touch
 contact_subheading: Please reach out to arrange a call or introduction session
 ---
-If life is feeling more challenging, and your exhausted by trying to hold everything together, then you're in the right place.
+**If life is feeling more challenging, and you're exhausted by trying to hold everything together, then you're in the right place.**
 
 On the outside everything looks like it's great, you're showing up, you're functioning, but on the inside something is not right.
 
