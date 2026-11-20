@@ -7,7 +7,9 @@ teaser: "Perhaps you are a new mum and are confused and overwhelmed by
   unsupported. Whatever maybe be happening, I have extensive experience working
   with parents, both in groups and individually. "
 ---
-If you’re anew mum and struggling, you are not alone. Becoming a parent is life changing, and as with any big changes (no matter how much we may have wished for them!),there can be challenges. But often, many of these challenges are unexpected. Women might expect to sleep less and that day to day life will look very different, but there is so much women are often not prepared for. 
+If you’re a mum, finding it really hard, and feeling like you're the only one not getting it - you're not.
+
+Becoming a parent is life changing, and as with any big changes (no matter how much we may have wished for them!),there can be challenges. But often, many of these challenges are unexpected, and the gap between our expectations and what it actually feels like can be confusing and isolating. Women might expect to sleep less and that day to day life will look very different, but there is so much women are often not prepared for. 
 
 These are just some of the things the women I work with have said:
 
@@ -25,7 +27,7 @@ If you can relate to any of the above, I really want to reassure you that you ar
 
 Often women are confused by the emotions that they feel about being a parent. It can often be a complicated cocktail of emotions that can be hard to make sense of. “I really wanted to have a baby – why do I feel so sad?” Sound familiar?
 
-The massive upheaval of having a baby can bring some very unsettling emotions. It is really normal to feel the good feelings and the bad at the same time but it can be choppy waters to navigate. Relationships can often struggle to adjust (albeit temporarily)as life and roles change, and its important to know this is more common than not. 
+The massive upheaval of having a baby can bring some very unsettling emotions. It is really normal to feel the good feelings and the bad at the same time but it can be choppy waters to navigate. Relationships can often struggle to adjust (albeit temporarily) as life and roles change, and its important to know this is more common than not. 
 
 Therapy can offer you  the chance to get some support. It might be  that you need some space to reflect on how you’re feeling, even to just air things that may feel hard to say to your family and friends. It can help you make sense of what you’re feeling and recharge. You might want to think about tools that can help you regulate your emotions. Perhaps you would like to explore how to ask for more help without feeling guilty. You don’t have to do this alone.
 
