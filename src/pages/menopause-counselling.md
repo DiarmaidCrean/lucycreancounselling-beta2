@@ -1,7 +1,7 @@
 ---
 ready: true
 title: Midlife and Menopause
-subtitle: Counselling support through life's significant transitions
+subtitle: Therapeutic support through menopause
 teaser: Midlife can be a deeply challenging time for women – a profound
   psychological journey, impacted by a changing hormonal and biological
   landscape, it can be a very confusing and destabilizing time. Menopause
