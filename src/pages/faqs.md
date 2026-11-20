@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 subtitle: Here are some of the common questions I hear from clients who are
   thinking about starting therapy with me
 faqs:
-  - question: How much do sessions cost?
+  - question: How much do therapy sessions cost?
     answer: >-
       I believe strongly that therapy should be accessible to all. For this
       reason, I offer sessions on a sliding scale of £55–£65 based on what you
@@ -36,11 +36,11 @@ faqs:
       arrange a call or introduction session. This might help you decide as we
       can think about how we might work on your problem in our sessions.
   - question: "Will I have to talk about my childhood? What if I can’t remember much? "
-    answer: You will never be pressured to talk about your childhood, and we won't
-      be probing for things that you can't remember. Talking about our early
-      experiences can be helpful in terms of offering another lens with which to
-      view our current experiences. But this is not always the case, and there
-      are other ways we can explore this.
+    answer: You will never be pressured to talk about your childhood if you don't
+      want to, and we won't be probing for things that you can't remember.
+      Talking about our early experiences can be helpful in terms of offering
+      another lens with which to view our current experiences. But this is not
+      always the case, and there are other ways we can explore this.
   - question: What if I don’t know what to talk about? I find it really hard to open up.
     answer: Its really normal to feel nervous about accessing therapy, especially if
       you don't usually talk about yourself much. Please don't worry. I will
@@ -53,7 +53,7 @@ faqs:
       space, regardless of how much for little you want to share with me.
   - question: How do I book a first session?
     answer: Get in touch by email at lucy@lucycreancounselling.co.uk or call 07947
-      862832. I offer a free 30-minute introductory call so we can discuss what
-      has brought you to counselling and whether we are a good fit to work
-      together.
+      862832. I offer reduced fee in person introduction session, or a a free
+      20-minute introductory call so we can discuss what has brought you to
+      counselling and whether we are a good fit to work together.
 ---
