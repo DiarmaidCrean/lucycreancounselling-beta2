@@ -25,7 +25,7 @@ contact_subheading: Please reach out to arrange a call or introduction session
 ---
 **If life is feeling more challenging, and you're exhausted by trying to hold everything together, then you're in the right place.**
 
-On the outside everything looks like it's great, you're showing up, you're functioning, but on the inside something is not right.
+On the outside everything probably looks like it's great - you're showing up, you're functioning, but on the inside something is not right.
 
 You deserve so much more than this. Therapy can offer you the tools to thrive.
 
