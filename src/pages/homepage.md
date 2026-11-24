@@ -29,6 +29,6 @@ On the outside everything probably looks like it's great - you're showing up, yo
 
 You deserve so much more than this. Therapy can offer you the tools to thrive.
 
-You may be feeling overwhelmed by emotions or thoughts. Perhaps you feel stuck in a situation or pattern that you can't seem to shift. Or are you finding a relationship exhausting or confusing. Maybe life has taken an unexpected turn, or perhaps you can't put your finger on it, but something is just not right.
+You may be feeling overwhelmed by emotions or thoughts. Perhaps you feel stuck in a situation or pattern that you can't seem to shift. Or are you finding a relationship draining or confusing. Maybe life has taken an unexpected turn, or perhaps you can't put your finger on it, but something is just not right.
 
 I believe everyone can benefit from therapy. So whatever difficulties in your life have brought you here, I welcome you to take a look around my website to understand more about who I am, who I work with, and how I can help.
