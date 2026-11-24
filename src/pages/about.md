@@ -4,7 +4,7 @@ subtitle: What you can expect from therapy with me
 photo: /assets/images/lucy-crean2.jpg
 body_top: >-
   As you’re reading this, I am guessing life is difficult right now and you are
-  looking for someone or something to help. Looking for a therapist might feel
+  looking for someone or something to help. Looking for a therapist can feel
   overwhelming, and so I hope from this page you will get more of an idea of who
   I am and whether I might be right for you.
 
