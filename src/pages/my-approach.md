@@ -1,6 +1,6 @@
 ---
 title: My Approach to Counselling
-subtitle: Humanistic, person-centred counselling
+subtitle: Humanistic, psychotherapeutic counselling
 ---
 ## How I work
 
