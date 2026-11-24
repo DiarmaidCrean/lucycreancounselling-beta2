@@ -7,9 +7,9 @@ teaser: "Perhaps you are a new mum and are confused and overwhelmed by
   unsupported. Whatever maybe be happening, I have extensive experience working
   with parents, both in groups and individually. "
 ---
-If you’re a mum, finding it really hard, and feeling like you're the only one not getting it - you're not.
+If you’re a mum and finding things really hard, you are not alone. If you're looking at other parents and feeling like you're the only one not getting it right, you're not.
 
-Becoming a parent is life changing, and as with any big changes (no matter how much we may have wished for them!), there can be challenges. But often, many of these challenges are unexpected, and the gap between our expectations and what it actually feels like can be confusing and isolating. Women might expect to sleep less and that day to day life will look very different, but there is so much women are often not prepared for. 
+Becoming a parent is life changing, and as with any big changes (no matter how much we may have wished for them!), there can be challenges. But often, many of these challenges are unexpected, and the gap between our expectations of motherhood and what it actually feels like can be confusing and isolating. 
 
 These are just some of the things the women I work with have said:
 
