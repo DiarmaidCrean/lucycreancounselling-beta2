@@ -21,7 +21,7 @@ Women, often the ones who just get on with it, push through with a smile on thei
 
 “I’ve lost all my confidence”
 
-These are just some of the questions that bring women to therapy in midlife. 
+These are just some of the things that I hear women in midlife struggling with. 
 
 During perimenopause, hormonal fluctuations can influence the systems involved in brain functioning, as well as body, affecting stress regulation and emotional responses. This can make coping mechanisms that may have once worked well, now feel completely inaccessible. The masks women may have worn to get through stressful times or social situations seem lost. Every ‘role’ adopted in relationship feels tired and inauthentic. It can feel a hugely exposing time. If you are neurodiverse (diagnosed or not) you may well have an extra layer of difficulty due to the pressure hormonal changes put on cognitive function. Its really common for midlife women to say they don’t recognise themselves.
 
