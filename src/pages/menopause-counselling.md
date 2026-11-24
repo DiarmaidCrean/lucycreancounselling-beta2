@@ -13,7 +13,7 @@ This is something I often hear from women who come to therapy to support them in
 
 Women, often the ones who just get on with it, push through with a smile on their face, park their own feelings so as not to upset the apple cart, suddenly find themselves floundering. Perhaps sandwiched between caring for children as well as aging parents, finding work challenging in a way it never was before or being confronted by huge doubts about relationships. It can be a confusing time. 
 
-“I used to be able to cope with stress but now I can’t”
+“I used to be able to cope but now I can’t”
 
 “I feel so much rage! Why am I so angry?”
 
