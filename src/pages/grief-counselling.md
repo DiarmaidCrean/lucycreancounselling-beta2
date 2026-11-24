@@ -19,4 +19,4 @@ You may also be holding some difficult feelings such as regret, guilt, anger or 
 
 Grief is difficult and needs time. It is a deeply personal process, that can touch every area of life. Therapy can offer you support through this profoundly challenging experience.
 
-Reach out to arrange a gentle conversation. I can offer a free call, or an in person introduction session, and we can explore the ways in which therapy might be beneficial to you at this time.
+Reach out to arrange a conversation. I can offer a free call, or an in person introduction session, and we can explore the ways in which therapy might be beneficial to you at this time.
