@@ -1,6 +1,6 @@
 ---
 title: Fees & booking
-subtitle: Affordable counselling in Hove and Brighton
+subtitle: "Affordable counselling in Hove "
 ---
 ## Fees:
 
