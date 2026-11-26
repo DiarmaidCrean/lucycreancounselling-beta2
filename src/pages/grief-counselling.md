@@ -9,7 +9,7 @@ teaser: Grief is one of the most profound experiences we go through, and
 ---
 Loss comes in many forms. Perhaps it’s the death of someone close, the end of a relationship, a change in health, or the loss of a sense of who you are. All of these deserve to be taken seriously and given space.
 
-Losing someone or something precious is deeply painful, and grief is a natural response to this. 
+Losing someone, or something, precious is deeply painful, and grief is a natural response to this. 
 
 It can change our understanding and beliefs about the world and the people around us. It can alter our identity, purpose and family roles. We can often feel that others don’t get it, and this can make it can feel a deeply lonely experience. If the relationship we had with the person or situation we have lost was complicated, then this can add another layer of challenge and confusion.
 
