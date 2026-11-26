@@ -14,7 +14,7 @@ They are usually tired of holding everything together – on the outside everyth
 
 If this is you right now, then therapy can help.
 
-Being overwhelmed by strong emotions like worry, fear or anger is a really common issue that counselling can help with. Our emotions, usually the thing that tells us something is not right, can become overpowering and stop making sense and we’re not sure why.
+Being overwhelmed by strong emotions like worry or fear is a really common issue that counselling can help with. Our emotions, usually the thing that tells us something is not right, can become overpowering and stop making sense.
 
 Counselling can offer you to work through this in a calm and grounded way. We can explore what is driving your anxiety, understand the patterns that keep it in place, and find ways to help you feel steadier and more present in your life.
 
